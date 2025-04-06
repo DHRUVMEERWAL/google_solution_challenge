@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/master.swiftdeps"
+  },
+  "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/checkouts/swift-nio/Sources/_NIOFileSystemExported/Exports.swift": {
+    "dependencies": "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Exports.d",
+    "object": "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Exports.swift.o",
+    "swiftmodule": "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Exports.swiftdeps"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/x86_64-apple-macosx/debug/ScreenMirrorServer.build/master.swiftdeps"
+  },
+  "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/Sources/ScreenMirrorServer/main.swift": {
+    "dependencies": "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/x86_64-apple-macosx/debug/ScreenMirrorServer.build/main.d",
+    "object": "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/x86_64-apple-macosx/debug/ScreenMirrorServer.build/main.swift.o",
+    "swiftmodule": "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/x86_64-apple-macosx/debug/ScreenMirrorServer.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/x86_64-apple-macosx/debug/ScreenMirrorServer.build/main.swiftdeps"
+  }
+}

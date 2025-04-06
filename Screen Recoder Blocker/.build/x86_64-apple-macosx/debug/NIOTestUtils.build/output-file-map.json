@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/x86_64-apple-macosx/debug/NIOTestUtils.build/master.swiftdeps"
+  },
+  "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/checkouts/swift-nio/Sources/NIOTestUtils/ByteToMessageDecoderVerifier.swift": {
+    "dependencies": "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/x86_64-apple-macosx/debug/NIOTestUtils.build/ByteToMessageDecoderVerifier.d",
+    "object": "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/x86_64-apple-macosx/debug/NIOTestUtils.build/ByteToMessageDecoderVerifier.swift.o",
+    "swiftmodule": "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/x86_64-apple-macosx/debug/NIOTestUtils.build/ByteToMessageDecoderVerifier~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/x86_64-apple-macosx/debug/NIOTestUtils.build/ByteToMessageDecoderVerifier.swiftdeps"
+  },
+  "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/checkouts/swift-nio/Sources/NIOTestUtils/EventCounterHandler.swift": {
+    "dependencies": "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/x86_64-apple-macosx/debug/NIOTestUtils.build/EventCounterHandler.d",
+    "object": "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/x86_64-apple-macosx/debug/NIOTestUtils.build/EventCounterHandler.swift.o",
+    "swiftmodule": "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/x86_64-apple-macosx/debug/NIOTestUtils.build/EventCounterHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/x86_64-apple-macosx/debug/NIOTestUtils.build/EventCounterHandler.swiftdeps"
+  },
+  "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/checkouts/swift-nio/Sources/NIOTestUtils/NIOHTTP1TestServer.swift": {
+    "dependencies": "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/x86_64-apple-macosx/debug/NIOTestUtils.build/NIOHTTP1TestServer.d",
+    "object": "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/x86_64-apple-macosx/debug/NIOTestUtils.build/NIOHTTP1TestServer.swift.o",
+    "swiftmodule": "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/x86_64-apple-macosx/debug/NIOTestUtils.build/NIOHTTP1TestServer~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/x86_64-apple-macosx/debug/NIOTestUtils.build/NIOHTTP1TestServer.swiftdeps"
+  }
+}
