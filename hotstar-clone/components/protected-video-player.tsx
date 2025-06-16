@@ -132,7 +132,7 @@ export default function ProtectedVideoPlayer({
     }
 
     pollScreenStatus()
-    intervalId = setInterval(pollScreenStatus, 3000)
+    intervalId = setInterval(pollScreenStatus, 1000)
 
     return () => clearInterval(intervalId)
   }, [])

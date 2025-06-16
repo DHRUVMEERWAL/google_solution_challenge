@@ -1,0 +1,18 @@
+{
+  "terabox.com": {
+    "type": "email",
+    "email": "dmca@terabox.com"
+  },
+  "gofile.io": {
+    "type": "email",
+    "email": "abuse@gofile.io"
+  },
+  "drive.google.com": {
+    "type": "webform",
+    "url": "https://support.google.com/legal/troubleshooter/1114905"
+  },
+  "mega.nz": {
+    "type": "email",
+    "email": "abuse@mega.nz"
+  }
+}

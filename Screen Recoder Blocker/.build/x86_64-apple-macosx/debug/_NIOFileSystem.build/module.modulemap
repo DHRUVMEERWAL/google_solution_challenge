@@ -1,4 +1,0 @@
-module _NIOFileSystem {
-    header "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/x86_64-apple-macosx/debug/_NIOFileSystem.build/_NIOFileSystem-Swift.h"
-    requires objc
-}

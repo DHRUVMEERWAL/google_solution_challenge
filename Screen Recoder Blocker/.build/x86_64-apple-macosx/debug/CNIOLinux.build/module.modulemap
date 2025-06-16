@@ -1,4 +1,0 @@
-module CNIOLinux {
-    umbrella header "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/checkouts/swift-nio/Sources/CNIOLinux/include/CNIOLinux.h"
-    export *
-}

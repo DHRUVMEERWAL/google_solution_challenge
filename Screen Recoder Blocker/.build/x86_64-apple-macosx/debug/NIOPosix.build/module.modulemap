@@ -1,4 +1,0 @@
-module NIOPosix {
-    header "/Users/dhruv/Desktop/Hackathons/Google Solution Challenge/Screen Recoder Blocker/.build/x86_64-apple-macosx/debug/NIOPosix.build/NIOPosix-Swift.h"
-    requires objc
-}

@@ -1,0 +1,23 @@
+{
+  "name": "scrappers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@langchain/core": "^0.3.58",
+    "@langchain/google-genai": "^0.2.12",
+    "csv-parser": "^3.2.0",
+    "dotenv": "^16.5.0",
+    "fs": "^0.0.1-security",
+    "langchain": "^0.3.28",
+    "nodemailer": "^7.0.3",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
